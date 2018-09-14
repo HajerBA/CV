@@ -1,2 +1,2 @@
 # CV
-My CV with Asp.net,Bootstrap
+My CV on VS with html css js and Bootstrap
